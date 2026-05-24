@@ -51,7 +51,7 @@ A robust microservices ecosystem simulating a real-world e-commerce platform.
 
 ### 2. [Real-Time Notification Service](LINK_TO_REPO)
 High-throughput service for handling push, email, and SMS notifications.
-- **Tech Stack:** **Express.js**, **Kafka** (Producer/Consumer), **Redis** (Idempotency), **MySQL**.
+- **Tech Stack:** **SSE (Server-Sent Events) **, **Express.js**, **Kafka** (Producer/Consumer), **Redis** (Idempotency), **MySQL**.
 - **Highlights:** Processing over 1M requests per minute with horizontal scaling.
 
 ### 3. [Financial Management API (Laravel)](LINK_TO_REPO)
