@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel)](YOUR_PORTFOLIO_URL)
 
-Passionate **Software Engineer** with over [X] years of experience architecting and building **scalable backend systems**. I specialize in creating robust **Microservices** using both the **JVM (Spring Boot)** and **Node.js (Express.js)** ecosystems, as well as high-level web applications with **PHP & Laravel**.
+Passionate **Software Engineer** with over [7] years of experience architecting and building **scalable backend systems**. I specialize in creating robust **Microservices** using both the **JVM (Spring Boot)** and **Node.js (Express.js)** ecosystems, as well as high-level web applications with **PHP & Laravel**.
 
 I thrive on solving complex domain problems, optimizing **SQL databases** (PostgreSQL/MySQL), and building **event-driven architectures** with **Apache Kafka**.
 
