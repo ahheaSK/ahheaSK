@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [DOEM MAKARA]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL@example.com)
@@ -20,12 +20,13 @@ I thrive on solving complex domain problems, optimizing **SQL databases** (Postg
 ### 🗄️ Databases & Storage
 - **Relational:** PostgreSQL, MySQL (Performance tuning, Complex Queries, ACID compliance)
 - **NoSQL:** MongoDB, Redis (Caching)
-- **Versioning:** Flyway, Liquibase
+- **Versioning:** Liquibase
 
 ### 🐳 DevOps & Cloud
-- **Containers:** Docker, Kubernetes (K8s), Docker Compose
-- **Cloud:** AWS (EC2, RDS, SQS, S3), Google Cloud Platform (GCP)
-- **Infrastructure as Code:** Terraform (Basic), Ansible
+- **Containers:** Docker, Docker Compose
+<!-- - **Containers:** Docker, Kubernetes (K8s), Docker Compose -->
+<!-- - **Cloud:** AWS (EC2, RDS, SQS, S3), Google Cloud Platform (GCP)
+- **Infrastructure as Code:** Terraform (Basic), Ansible -->
 
 ---
 
